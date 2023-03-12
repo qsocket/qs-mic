@@ -8,7 +8,6 @@
   [![Build][workflow-img]][workflow]
   [![Issues][issues-img]][issues]
   [![Crates][crates-img]][crates]
-  ![Docker Pulls][docker-pulls]
   [![License: MIT][license-img]][license]
 </div>
 
@@ -20,7 +19,6 @@
 [downloads-img]: https://img.shields.io/github/downloads/qsocket/qs-mic/total?logo=github
 [issues]: https://github.com/qsocket/qs-mic/issues
 [issues-img]: https://img.shields.io/github/issues/qsocket/qs-mic?color=red
-[docker-pulls]: https://img.shields.io/docker/pulls/qsocket/qs-mic?logo=docker&label=docker%20pulls
 [license]: https://raw.githubusercontent.com/qsocket/qs-mic/master/LICENSE
 [license-img]: https://img.shields.io/github/license/qsocket/qs-mic.svg
 [google-cloud-shell]: https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/qsocket/qs-mic&tutorial=README.md

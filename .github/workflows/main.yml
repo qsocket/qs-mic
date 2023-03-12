@@ -17,7 +17,7 @@ jobs:
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v3
       with:
-        name: qs-netcat_linux_amd64
+        name: qs-mic_linux_amd64
         path: ./target/release/qs-mic
         retention-days: 5
     # - name: Run tests
@@ -31,7 +31,7 @@ jobs:
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v3
       with:
-        name: qs-netcat_windows_amd64
+        name: qs-mic_windows_amd64
         path: ./target/release/qs-mic.exe
         retention-days: 5
     # - name: Run tests
@@ -45,7 +45,7 @@ jobs:
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v3
       with:
-        name: qs-netcat_darwin_amd64
+        name: qs-mic_darwin_amd64
         path: ./target/release/qs-mic
         retention-days: 5
 
